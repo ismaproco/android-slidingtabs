@@ -1,0 +1,4 @@
+/Users/Savathos/Downloads/SlidingTabsColors/Application/build/intermediates/classes/debug
+/Users/Savathos/Downloads/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-c1cd662d1b9f19d5f3c7a74bc29ef688ac4df8a3.jar
+/Users/Savathos/Downloads/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-84ac1e539d910a6895d4735b381ea67419ed96e8.jar
+/Users/Savathos/Downloads/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/classes-5dba039299401646364146b3bd385ee275ab6f23.jar

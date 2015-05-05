@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Savathos/Downloads/SlidingTabsColors/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/Savathos/Downloads/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/classes-5dba039299401646364146b3bd385ee275ab6f23.jar" />
+    </item>
+    <item
+        jar="/Users/Savathos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/Savathos/Downloads/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-c1cd662d1b9f19d5f3c7a74bc29ef688ac4df8a3.jar" />
+    </item>
+    <item
+        jar="/Users/Savathos/Downloads/SlidingTabsColors/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/Savathos/Downloads/SlidingTabsColors/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-84ac1e539d910a6895d4735b381ea67419ed96e8.jar" />
+    </item>
+
+</items>
